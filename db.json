@@ -1,10 +1,5 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
+  "hello": "honza responded",
   "profile": {
     "name": "typicode"
   }
